@@ -19,7 +19,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Brain className="h-8 w-8 text-blue-600" />
-              <span className="text-xl font-bold text-gray-900">ResearchAI</span>
+              <span className="text-xl font-bold text-gray-900">Scholarly</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#features" className="text-gray-600 hover:text-blue-600 transition-colors">Features</a>
@@ -134,13 +134,13 @@ const Index = () => {
           <div className="text-center">
             <div className="flex items-center justify-center space-x-2 mb-4">
               <Brain className="h-8 w-8 text-blue-400" />
-              <span className="text-2xl font-bold">ResearchAI</span>
+              <span className="text-2xl font-bold">Scholarly</span>
             </div>
             <p className="text-gray-400 mb-4">
               Empowering students and professionals with AI-driven research tools
             </p>
             <p className="text-sm text-gray-500">
-              © 2024 ResearchAI. Built with advanced AI technology.
+              Scholarly. Built with advanced AI technology.
             </p>
           </div>
         </div>
